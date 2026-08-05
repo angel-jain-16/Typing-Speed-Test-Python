@@ -1,9 +1,0 @@
-1. Create a window with tkinter, lets work on UI first
-2.
-
-# self.entry = tk.Text(root, font=("Helvetica", 14), width=50, height=3, bd=2, relief="sunken", wrap="word")
-# self.entry.pack(pady=10)
-#
-# # Configure custom behavior tags
-# self.entry.tag_config("correct", foreground="#2e7d32")  # Green
-# self.entry.tag_config("incorrect", foreground="#f44336", background="#ffebee")
